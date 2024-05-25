@@ -4,7 +4,7 @@
 
 **Sample T-1**
 
-<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T1_gn.jpg" alt="T1 gn" style="width:50%;">
+<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T1/T1_gn.jpg" alt="T1 gn" style="width:50%;">
 
 Galena (PbS), which has three perfect cleavages, has developed triangular pits during polishing. 
 
