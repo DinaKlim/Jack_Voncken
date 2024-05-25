@@ -80,5 +80,44 @@ Sphalerite (grey) with oriented chacopyrite (yellow) inclusions. This texture is
 
 Loellingite/rammelsbergite aggregate. Parallel polars (left), crossed polars (right).
 
+**Sample T-7**
 
-<img src="" alt="" style="width:50%;">
+<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T7/T7_bn_dg.jpg" alt="T7 bn dg" style="width:50%;">
+
+Bornite inclusion with digenite rims in chalcocite. 
+
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T7/T7_ren_bn_cc_parallel.jpg" style="width: 45%; height: auto; margin-right: 2%;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T7/T7_ren_bn_cc_crossed.jpg" style="width: 45%; height: auto;">
+</div>
+
+Renierite (orange) with bornite (purple) in carbonate. Parallel polars (left), crossed polars (right).
+
+**Sample T-8**
+
+<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T8/T8_ccp_cub.jpg" alt="T8 ccp cub" style="width:50%;">
+
+Chalcopyrite-cubanite intergrowth. Chalcopyrite is yellowish. Cubanite is pinkish.
+
+<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T8/T8_pn_ccp_cub_sph.jpg" alt="T8 pn ccp cub sph" style="width:50%;">
+
+Pentlandite, chalcopyrite, cubanite, sphalerite. Pentlandite is the largest phase in the image, pinkish, with perpendicular (pyroxene-like) cleavage. 
+
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T8/T8_mkw_ccp_parallel.jpg" style="width: 45%; height: auto; margin-right: 2%;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T8/T8_mkw_ccp_crossed.jpg" style="width: 45%; height: auto;">
+</div>
+
+Mackinawite in chalcopyrite. Parallel polars (left), crossed polars (right).
+
+**Sample T-9a**
+
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9a/T9a_pr_asp_parallel.jpg" style="width: 45%; height: auto; margin-right: 2%;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9a/T9a_pr_asp_crossed.jpg" style="width: 45%; height: auto;">
+</div>
+
+Proustite (greenish) and arsenopyrite (yellowish, arrow-shaped crystals). Parallel polars (left), crossed polars (right).
+The bright red internal reflections are typical for Proustite/Pyrargyrite. 
+
+
