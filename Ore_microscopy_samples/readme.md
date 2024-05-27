@@ -79,7 +79,7 @@ Sphalerite (grey) with oriented chacopyrite (yellow) inclusions. This texture is
 </div>
 
 Loellingite/rammelsbergite aggregate. Parallel polars (left), crossed polars (right).
-Loellingite (German: Löllingite), FeAs2 and rammelsbergite, NiAs2, are optically very difficult to distinguish. X-ray Diffraction analysis yields loellingite, but precise optical measurements yield rammelsbergite. Therefore the mineral is given as loellingite/rammelsbergite.
+Loellingite (German: Löllingite), FeAs2 and rammelsbergite, NiAs2, are optically very difficult to distinguish. X-ray Diffraction analysis opf this sample yields loellingite, but precise optical measurements yield rammelsbergite. Therefore the mineral is given as loellingite/rammelsbergite.
 
 **Sample T-7**
 
