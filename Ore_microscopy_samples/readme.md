@@ -2,7 +2,7 @@
 
 **Ore Microscopy Study Collection (polished sections), Delft University of Technology, The Netherlands.**
 
-**Sample T-1. Pb-Zn ore; Casapalca, Peru**
+**Sample T-1. Pb-Zn ore. Casapalca, Peru.**
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T1/T1_gn.jpg" alt="T1 gn" style="width:50%;">
 
@@ -27,7 +27,7 @@ Sphalerite with internal reflections, due to its transparency. Crossed polars (l
 
 Pyrite (yellowish). Partly resorbed by the hydrothermal fluid. 
 
-**Sample T-2. Gold ore. Sumatra, Indonesia**
+**Sample T-2. Gold ore. Sumatra, Indonesia.**
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T2/T2_ccp_sph_Au.jpg" alt="T2 ccp shp au" style="width:50%;">
 
