@@ -25,7 +25,7 @@ Sphalerite with internal reflections, due to its transparency. Crossed polars (l
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T1/T1_py.jpg" alt="T1 gn" style="width:50%;">
 
-Pyrite (yellowish). Partly resorbed by the hydrothermal Fluid. 
+Pyrite (yellowish). Partly resorbed by the hydrothermal fluid. 
 
 **Sample T-2**
 
@@ -35,12 +35,12 @@ Chalcopyrite (greenish yellow), sphalerite (grey) and gold (elongated yellow gra
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T2/T2_py.jpg" alt="T2 py ccp gn sph" style="width:50%;">
 
-Pyrite (whitish) with chalcopyrite (greenish yellow), galena (white) and sphalerite (grey). 
+Pyrite (whitish) with chalcopyrite (greenish yellow), galena (white) and sphalerite (grey).  Darker yellow elongated grains are gold. 
 
 Dark grey are silicate minerals. 
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T2/Int_refl.jpg" alt="int refl" style="width:50%;">
-Internal reflections in silicates, due to its tarnparency. Crossed Polars. 
+Internal reflections in silicates, due to its transparency. Crossed Polars. 
 
 The silicate shows common interference colors according to the Michel-Levy-scale. 
 
@@ -48,7 +48,7 @@ The silicate shows common interference colors according to the Michel-Levy-scale
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T3/T3_cv_py_cc.jpg" alt="T3 cv py cc" style="width:50%;">
 
-Covellite (bluish, elongated) with pyrite (yellowish, overgrown with later pyrite) and carbonate (brown). 
+Covellite, CuS, (bluish, elongated) with pyrite (yellowish, overgrown with later pyrite) and carbonate (brown). 
 
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T3/T3_cv_parallel.jpg" style="width: 45%; height: auto; margin-right: 2%;">
@@ -69,7 +69,7 @@ Cassiterite. Twinning.
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T5/T5_sph_ccp.jpg" alt="T5 sph cst" style="width:50%;">
 
-Sphalerite (grey) with oriented chacopyrite (yellow) inclusions. This texture is NOT due to demixing. There is almost no solid solution possible between sphalerite and chacopyrite.
+Sphalerite (grey) with oriented chacopyrite (yellow) inclusions. This texture is NOT due to demixing. There is almost no solid solution possible between sphalerite and chalcopyrite. Sphalerite and chalcopyrite have a similar unit cell, and chalcopyrite can nucleate on sphalerite.
 
 **Sample T-6**
 
@@ -79,6 +79,7 @@ Sphalerite (grey) with oriented chacopyrite (yellow) inclusions. This texture is
 </div>
 
 Loellingite/rammelsbergite aggregate. Parallel polars (left), crossed polars (right).
+Loellingite (German: Löllingite), FeAs2 and rammelsbergite, NiAs2, are optically very difficult to distinguish. X-ray Diffraction analysis yields loellingite, but precise optical measurements yield rammelsbergite. Therefore the mineral is given as loellingite/rammelsbergite.
 
 **Sample T-7**
 
@@ -92,6 +93,7 @@ Bornite inclusion with digenite rims in chalcocite.
 </div>
 
 Renierite (orange) with bornite (purple) in carbonate. Parallel polars (left), crossed polars (right).
+Do not confuse renierite (Cu1+,Zn)11Fe4(Ge4+,As5+)2S16 with reinerite Zn3(AsO3).
 
 **Sample T-8**
 
@@ -101,14 +103,15 @@ Chalcopyrite-cubanite intergrowth. Chalcopyrite is yellowish. Cubanite is pinkis
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T8/T8_pn_ccp_cub_sph.jpg" alt="T8 pn ccp cub sph" style="width:50%;">
 
-Pentlandite, chalcopyrite, cubanite, sphalerite. Pentlandite is the largest phase in the image, pinkish, with perpendicular (pyroxene-like) cleavage. 
+Pentlandite, chalcopyrite, cubanite, sphalerite. Pentlandite is the largest phase in the image, pinkish, with perpendicular (pyroxene-like) cleavage.
+Chalcopyrite, occuuring in veins in the pentlandite, is a later phase. Also present is a tiny amount of violarite. Violarite (Fe2+Ni23+S4) is a supergene sulfide mineral associated with the weathering and oxidation of primary pentlandite nickel sulfide ore minerals (Source: https://en.wikipedia.org/wiki/Violarite#:~:text=Violarite%20(Fe2%2BNi2,pentlandite%20nickel%20sulfide%20ore%20minerals.. 
 
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T8/T8_mkw_ccp_parallel.jpg" style="width: 45%; height: auto; margin-right: 2%;">
     <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T8/T8_mkw_ccp_crossed.jpg" style="width: 45%; height: auto;">
 </div>
 
-Mackinawite in chalcopyrite. Parallel polars (left), crossed polars (right).
+Mackinawite in chalcopyrite. Parallel polars (left), crossed polars (right). Mackinawite (Fe,Ni)S0.9 is formed during serpentinization of ultrabasic rocks. (Source: https://www.webmineral.com/data/Mackinawite.shtml) 
 
 **Sample T-9a**
 
