@@ -2,7 +2,7 @@
 
 **Ore Microscopy Study Collection (polished sections), Delft University of Technology, The Netherlands.**
 
-**Sample T-1**
+**Sample T-1. Pb-Zn ore; Casapalca, Peru**
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T1/T1_gn.jpg" alt="T1 gn" style="width:50%;">
 
@@ -27,7 +27,7 @@ Sphalerite with internal reflections, due to its transparency. Crossed polars (l
 
 Pyrite (yellowish). Partly resorbed by the hydrothermal fluid. 
 
-**Sample T-2**
+**Sample T-2. Gold ore. Sumatra, Indonesia**
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T2/T2_ccp_sph_Au.jpg" alt="T2 ccp shp au" style="width:50%;">
 
@@ -44,7 +44,7 @@ Internal reflections in silicates, due to its transparency. Crossed Polars.
 
 The silicate shows common interference colors according to the Michel-Levy-scale. 
 
-**Sample T-3**
+**Sample T-3. Copper ore, Bor Serbia**
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T3/T3_cv_py_cc.jpg" alt="T3 cv py cc" style="width:50%;">
 
@@ -61,7 +61,7 @@ Covellite, showing signs of deformation (parallel polars, left). Undulose extinc
 
 Covellite (blue) with Pyrite (yellowish) and enargite (pinkish grey).
 
-**Sample T-5**
+**Sample T-5. Sn-ore, Portugal**
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T5/T5_cst.jpg" alt="T5 cst" style="width:50%;">
 
@@ -71,7 +71,7 @@ Cassiterite. Twinning.
 
 Sphalerite (grey) with oriented chacopyrite (yellow) inclusions. This texture is NOT due to demixing. There is almost no solid solution possible between sphalerite and chalcopyrite. Sphalerite and chalcopyrite have a similar unit cell, and chalcopyrite can nucleate on sphalerite.
 
-**Sample T-6**
+**Sample T-6. Ni-Co ore, Cobalt, Ontario Canada**
 
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T6/T6_lol.jpg" style="width: 45%; height: auto; margin-right: 2%;">
@@ -81,7 +81,7 @@ Sphalerite (grey) with oriented chacopyrite (yellow) inclusions. This texture is
 Loellingite/rammelsbergite aggregate. Parallel polars (left), crossed polars (right).
 Loellingite (German: Löllingite), FeAs2 and rammelsbergite, NiAs2, are optically very difficult to distinguish. X-ray Diffraction analysis opf this sample yields loellingite, but precise optical measurements yield rammelsbergite. Therefore the mineral is given as loellingite/rammelsbergite.
 
-**Sample T-7**
+**Sample T-7, Cu-Ge ore. Tsumeb, Namibia**
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T7/T7_bn_dg.jpg" alt="T7 bn dg" style="width:50%;">
 
@@ -95,7 +95,7 @@ Bornite inclusion with digenite rims in chalcocite.
 Renierite (orange) with bornite (purple) in carbonate. Parallel polars (left), crossed polars (right).
 Do not confuse renierite (Cu1+,Zn)11Fe4(Ge4+,As5+)2S16 with reinerite Zn3(AsO3).
 
-**Sample T-8**
+**Sample T-8. Cu-Ni ore. Canada**
 
 <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T8/T8_ccp_cub.jpg" alt="T8 ccp cub" style="width:50%;">
 
@@ -113,7 +113,7 @@ Chalcopyrite, occuuring in veins in the pentlandite, is a later phase. Also pres
 
 Mackinawite in chalcopyrite. Parallel polars (left), crossed polars (right). Mackinawite (Fe,Ni)S0.9 is formed during serpentinization of ultrabasic rocks. (Source: https://www.webmineral.com/data/Mackinawite.shtml) 
 
-**Sample T-9a**
+**Sample T-9a. Ag-Sb ore. Příbram, Czechia**
 
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9a/T9a_pr_asp_parallel.jpg" style="width: 45%; height: auto; margin-right: 2%;">
