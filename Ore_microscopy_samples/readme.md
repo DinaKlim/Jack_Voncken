@@ -1,6 +1,27 @@
 ## Photographs and sample descriptions
 
 **Ore Microscopy Study Collection (polished sections), Delft University of Technology, The Netherlands.**
+In this section sample descriptions are linked to the classification from the syllabus.  
+
+### Magmatic ores
+
+#### Ores related to mantle degassing
+
+#### Segregation deposits
+T-11. This is a chromite ore from the Philippines. In this sample the olivine is completely altered to serpentine.
+
+#### Deposits linked to the demixing of melts
+T-4 is a typical massive sulfidic ore from Sudbury, with pyrrhotite, pentlandite, chalcopyrite and magnetite.
+
+T-8 (from the Frood-Stobie mine) shows chalcopyrite, intergrown with the (in general rather rare) mineral cubanite (CuFe<sub>2</sub>S<sub>3</sub>). In T-8 sometimes accessory Bi-Te minerals can be found.
+
+#### Granitic Magmas and Pegmatites
+
+### Hydrothermal ores
+
+#### Magmatic type 
+
+##### Greisen Tin Deposits (related to granite)
 
 **Sample T-1. Pb-Zn ore. Casapalca, Peru.**
 
