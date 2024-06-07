@@ -32,7 +32,28 @@ Sphalerite (dark grey) with galena (showing triangular pits as a result of polis
 
 Arsenopyrite twin in silicate. Crossed polars (left), parallel polars (right).
 
+<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9n_jam_sil_2.jpg" alt="T1 gn" style="width:50%;">
 
+Aggretates of jamesonite with silicate (dark brown).
+
+<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-20x-galeniet-jamesoniet-omzetting.jpg" alt="T1 gn" style="width:50%;">
+
+Jamesonite (greenish) in galena. The galena is being altered to jamesonite, but the reaction did not reach completion here. 
+
+Jamesonite is Pb<sub>4</sub>FeSb<sub>6</sub>S<sub>14</sub>
+
+The hydrothermal fluid introduced in the rock brought mainly Fe and Sb in the chemical system.
+
+<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-20x-jamesonite-aggregate.jpg" alt="T1 gn" style="width:50%;">
+
+Galena grain with greenish jamesonite. The galena is not completely altered to jamesonite
+
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-20x-jamesonite-aggregate-2-%23.jpg" style="width: 45%; height: auto; margin-right: 2%;">
+    <img src="" style="width: 45%; height: auto;">
+</div>
+
+Jamesonite aggregate. Still some small patches of galena are left. Crossed polars (left), parallel polars (right).
 
 <img src="" alt="T1 gn" style="width:50%;">
 
