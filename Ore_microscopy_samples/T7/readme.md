@@ -10,5 +10,5 @@ Bornite inclusion with digenite rims in chalcocite.
 </div>
 
 Renierite (orange) with bornite (purple) in carbonate. Parallel polars (left), crossed polars (right).
-Do not confuse renierite (Cu<sup>1+</sup>,Zn)<sub>11</sub>Fe<sub>4</sub>(Ge<sup>4+</sup>,As5+)<sub>2</sub>S<sub>16</sub> with reinerite Zn<sub>3</sub>(AsO<sub>3</sub>).
+Do not confuse renierite (Cu<sup>1+</sup>,Zn)<sub>11</sub>Fe<sub>4</sub>(Ge<sup>4+</sup>,As<sup>5+</sup>)<sub>2</sub>S<sub>16</sub> with reinerite Zn<sub>3</sub>(AsO<sub>3</sub>).
 
