@@ -35,7 +35,7 @@ setting. No clear veins can be recognized.
 
 $~~~~~~~~~~~~~~~~$├── **Ag-Ni-Co-Bi arsenide ores**
 
-$~~~~~~~~~~~~~~~~~~~~~$└── Specimen T-6 is a sample of the ores from the Cobalt region, near Sudbury, Canada, which are considered to be typical. T-6 contains no native silver and Bi, but for the rest is a beautiful example of these ores. Minerals are among others: skutterudite
+$~~~~~~~~~~~~~~~~~~~~~$└── Specimen [T-6](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T6/readme.md) is a sample of the ores from the Cobalt region, near Sudbury, Canada, which are considered to be typical. T-6 contains no native silver and Bi, but for the rest is a beautiful example of these ores. Minerals are among others: skutterudite
 ((Co,Ni,Fe)As<sub>3-x</sub>), nickeline (NiAs), cobaltite (Co,Fe)AsS) and loellingite/rammelsbergite1. It can be observed that skutterudite and nickeline crystallized early, followed by cobaltite and loellingite/rammelsbergite.
 
 $~~~~~~~~$├── **Magmatic/Groundwater**
