@@ -46,7 +46,7 @@ $~~~~~~~~~~~~~~~~$├── **Porphyry Copper and molybdenum Deposits**
 
 $~~~~~~~~~~~~~~~~$├── **Mesothermal deposits**
 
-$~~~~~~~~~~~~~~~~~~~~~$└── T-1 is a specimen from such a mesothermal Pb-Zn from Casapalca, Peru. Minerals in the ore are galena, sphalerite, pyrite, and tennantite (Cu<sub>3</sub>(As,Sb)S<sub>3.25</sub> (or Cu<sub>12</sub>(As,Sb)<sub>4</sub>S<sub>13</sub>)
+$~~~~~~~~~~~~~~~~~~~~~$└── [T-1](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T1/readme.md) is a specimen from such a mesothermal Pb-Zn from Casapalca, Peru. Minerals in the ore are galena, sphalerite, pyrite, and tennantite (Cu<sub>3</sub>(As,Sb)S<sub>3.25</sub> (or Cu<sub>12</sub>(As,Sb)<sub>4</sub>S<sub>13</sub>)
 
 $~~~~~~~~~~~~~~~~~~~~~$└── T-3 is a Cu-ore from Bor, Serbia. The copper ores from Bor are found in a hydrothermally altered andesite. The volcanic rocks are associated with intrusive rocks varying from diorite gabbro to granodiorite. Apparently associated to the intrusives in hydrothermally altered andesite one may find massive Cu-ore as lenses, and stockwork deposits. The massive ores (typical minerals: pyrite, bornite, enargite/luzonite, chalcopyrite, chalcocite, covellite) are considered to be hydrothermal replacement ores. Porphyry copper ore is also found at Bor, in an underground mine which displays lower lying ores under the massive ores (mined
 in an open pit mine).
