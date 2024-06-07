@@ -98,7 +98,7 @@ $~~~~~~~~~~~~~~~~$├── **Bauxites**
 
 $~~~~~~~~~~~~~~~~$├── **Lateritic Ni-ores**
 
-$~~~~~~~~~~~~~~~~~~~~~$└── In the training collection, you can find in T-10 an example of a gossan from Zambia, in which the original minerals (magnetite, hematite) but also the weathering products (goethite & limonite) are visible. Goethite and limonite cannot readily be distinguished under the microscope.
+$~~~~~~~~~~~~~~~~~~~~~$└── In the training collection, you can find in [T-10](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T10/readme.md) an example of a gossan from Zambia, in which the original minerals (magnetite, hematite) but also the weathering products (goethite & limonite) are visible. Goethite and limonite cannot readily be distinguished under the microscope.
 
 ## Allochtonous ores
 
