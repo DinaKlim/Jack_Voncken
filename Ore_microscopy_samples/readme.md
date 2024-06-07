@@ -17,7 +17,7 @@ $~~~~~~~~$├── **Deposits linked to the demixing of melts**
 
 $~~~~~~~~~~~~~~~~$└──  T-4 is a typical massive sulfidic ore from Sudbury, with pyrrhotite, pentlandite, chalcopyrite and magnetite.
 
-$~~~~~~~~~~~~~~~~$└──  T-8 (from the Frood-Stobie mine) shows chalcopyrite, intergrown with the (in general rather rare) mineral cubanite (CuFe<sub>2</sub>S<sub>3</sub>). In T-8 sometimes accessory Bi-Te minerals can be found.
+$~~~~~~~~~~~~~~~~$└──  [T-8](https://github.com/DinaKlim/Jack_Voncken/tree/main/Ore_microscopy_samples/T8) (from the Frood-Stobie mine) shows chalcopyrite, intergrown with the (in general rather rare) mineral cubanite (CuFe<sub>2</sub>S<sub>3</sub>). In T-8 sometimes accessory Bi-Te minerals can be found.
 
 $~~~~~~~~$└── **Granitic Magmas and Pegmatites**
 
