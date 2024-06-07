@@ -1,7 +1,7 @@
 ## Photographs and sample descriptions
 
 **Ore Microscopy Study Collection (polished sections), Delft University of Technology, The Netherlands.**
-In this section sample descriptions are linked to the classification from the syllabus.  
+In this section sample descriptions are linked to the classification from the [syllabus](https://github.com/DinaKlim/Jack_Voncken/blob/main/notes_ore_mineralogy/Ore%20Mineralogy%20and%20Coal%20Petrography%20-%202013-1-99.pdf).  
 
 ## Magmatic ores
 
