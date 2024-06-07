@@ -26,8 +26,8 @@ Aggregates of jamesonite (altered galena), surrounded by silicate.
 Sphalerite (dark grey) with galena (showing triangular pits as a result of polishing). Galena has, clearly visible, three cleavage directions. 
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-20x-arsenopyrite-twin-2.jpg" style="width: 45%; height: auto; margin-right: 2%;">
-    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-20x-arsenopyrite-twin-2-%23.jpg" style="width: 45%; height: auto;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-20x-arsenopyrite-twin-2-%23.jpg" style="width: 45%; height: auto; margin-right: 2%;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-20x-arsenopyrite-twin-2.jpg" style="width: 45%; height: auto;">
 </div>
 
 Arsenopyrite twin in silicate. Crossed polars (left), parallel polars (right).
@@ -50,14 +50,12 @@ Galena grain with greenish jamesonite. The galena is not completely altered to j
 
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-20x-jamesonite-aggregate-2-%23.jpg" style="width: 45%; height: auto; margin-right: 2%;">
-    <img src="" style="width: 45%; height: auto;">
+    <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-20x-jamesonite-aggregate-2-parallel.jpg" style="width: 45%; height: auto;">
 </div>
 
 Jamesonite aggregate. Still some small patches of galena are left. Crossed polars (left), parallel polars (right).
 
-<img src="" alt="T1 gn" style="width:50%;">
+<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T9b/T9b-50x-galeniet-jamesoniet-omzetting.jpg" alt="T1 gn" style="width:50%;">
 
-<div style="display: flex; align-items: flex-start;">
-    <img src="" style="width: 45%; height: auto; margin-right: 2%;">
-    <img src="" style="width: 45%; height: auto;">
-</div>
+Galena (with cleavage), altered to jamesonite. The hydrothermal alteration reaction (introducing Fe snd Sb) did not reach completion. 
+
