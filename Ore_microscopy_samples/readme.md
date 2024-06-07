@@ -68,7 +68,7 @@ $~~~~~~~~~~~~~~~~$├── **Volcanogenic Massive Sulphide Deposits**
 
 $~~~~~~~~~~~~~~~~$├── **Stratiform deposits**
 
-$~~~~~~~~~~~~~~~~~~~~~$└── A sample of such an ore is found in specimen T-7 from the training collection. Here you find bornite and chalcopyrite, together with tennantite, sphalerite, and renierite (Cu,Ge)<sub>3</sub>FeS<sub>4</sub>. The matrix contains quartz silicates and sometimes graphite. Carrolite can be found in just a few specimens.
+$~~~~~~~~~~~~~~~~~~~~~$└── A sample of such an ore is found in specimen [T-7](https://github.com/DinaKlim/Jack_Voncken/tree/main/Ore_microscopy_samples/T7) from the training collection. Here you find bornite and chalcopyrite, together with tennantite, sphalerite, and renierite (Cu,Ge)<sub>3</sub>FeS<sub>4</sub>. The matrix contains quartz silicates and sometimes graphite. Carrolite can be found in just a few specimens.
 
 $~~~~~~~~~~~~~~~~$├── **Sedimentary Exhalative (SEDEX)**
 
