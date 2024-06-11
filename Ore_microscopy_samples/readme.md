@@ -17,7 +17,7 @@ $~~~~~~~~$├── **Deposits linked to the demixing of melts**
 
 $~~~~~~~~~~~~~~~~$└──  T-4 is a typical massive sulfidic ore from Sudbury, with pyrrhotite, pentlandite, chalcopyrite and magnetite.
 
-$~~~~~~~~~~~~~~~~$└──  [T-8](https://github.com/DinaKlim/Jack_Voncken/tree/main/Ore_microscopy_samples/T8) (from the Frood-Stobie mine) shows chalcopyrite, intergrown with the (in general rather rare) mineral cubanite (CuFe<sub>2</sub>S<sub>3</sub>). In T-8 sometimes accessory Bi-Te minerals can be found.
+$~~~~~~~~~~~~~~~~$└──  [T-8](https://github.com/DinaKlim/Jack_Voncken/tree/main/Ore_microscopy_samples/T8) (from the Frood-Stobie mine) shows chalcopyrite, intergrown with the (in general rather rare) mineral cubanite (CuFe<sub>2</sub>S<sub>3</sub>). In [T-8](https://github.com/DinaKlim/Jack_Voncken/tree/main/Ore_microscopy_samples/T8) sometimes accessory Bi-Te minerals can be found.
 
 $~~~~~~~~$└── **Granitic Magmas and Pegmatites**
 
@@ -27,15 +27,14 @@ $~~~~~~~~$├── **Magmatic type**
 
 $~~~~~~~~~~~~~~~~$├── **Greisen Tin Deposits (related to granite)**
 
-$~~~~~~~~~~~~~~~~~~~~~$└── An example of an ore from Panasqeira can be found in specimen [T-5](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T5/readme.md) from the practical collection. This is a complicated ore with many subsequent phases of mineralization. The general model is: the first mineral in the veins was cassiterite, followed by quartz, muscovite and very rare wolframite. After this, there was a sulphide rich phase, which led to the crystallization of pyrite, pyrrhotite, Fe-rich sphalerite and chalcopyrite. In a later phase, carbonate with secondary pyrite and marcasite was deposited, in which the pyrrhotite was altered. Not all pyrrhotite was altered, so it is still a prominent mineral in the polished sections. Pyrite can also be found
-as "melnicovite-pyrite" or "gel-pyrite", a cryptocrystalline or amorphous form of pyrite, which is deposited in concentric layers.
+$~~~~~~~~~~~~~~~~~~~~~$└── An example of an ore from Panasqeira can be found in specimen [T-5](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T5/readme.md) from the practical collection. This is a complicated ore with many subsequent phases of mineralization. The general model is: the first mineral in the veins was cassiterite, followed by quartz, muscovite and very rare wolframite. After this, there was a sulphide rich phase, which led to the crystallization of pyrite, pyrrhotite, Fe-rich sphalerite and chalcopyrite. In a later phase, carbonate with secondary pyrite and marcasite was deposited, in which the pyrrhotite was altered. Not all pyrrhotite was altered, so it is still a prominent mineral in the polished sections. Pyrite can also be found as "melnicovite-pyrite" or "gel-pyrite", a cryptocrystalline or amorphous form of pyrite, which is deposited in concentric layers.
 
 $~~~~~~~~~~~~~~~~~~~~~$└── In T-18 you will find an ore from Indonesia, which fits in this
 setting. No clear veins can be recognized.
 
 $~~~~~~~~~~~~~~~~$├── **Ag-Ni-Co-Bi arsenide ores**
 
-$~~~~~~~~~~~~~~~~~~~~~$└── Specimen [T-6](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T6/readme.md) is a sample of the ores from the Cobalt region, near Sudbury, Canada, which are considered to be typical. T-6 contains no native silver and Bi, but for the rest is a beautiful example of these ores. Minerals are among others: skutterudite
+$~~~~~~~~~~~~~~~~~~~~~$└── Specimen [T-6](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T6/readme.md) is a sample of the ores from the Cobalt region, near Sudbury, Canada, which are considered to be typical. [T-6](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T6/readme.md) contains no native silver and Bi, but for the rest is a beautiful example of these ores. Minerals are among others: skutterudite
 ((Co,Ni,Fe)As<sub>3-x</sub>), nickeline (NiAs), cobaltite (Co,Fe)AsS) and loellingite/rammelsbergite1. It can be observed that skutterudite and nickeline crystallized early, followed by cobaltite and loellingite/rammelsbergite.
 
 $~~~~~~~~$├── **Magmatic/Groundwater**
