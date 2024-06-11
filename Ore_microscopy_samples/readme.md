@@ -86,9 +86,9 @@ $~~~~~~~~~~~~~~~~~~~~~$└── A microscope sample of Precambrian iron ore, or
 
 $~~~~~~~~~~~~~~~~$├── **Manganese ore deposits**
 
-$~~~~~~~~~~~~~~~~~~~~~$└── An example can be found in T-12, where an oölitic Mn-ore from India is shown. Mn is mainly present as pyrolusite, but also as psilomelane. You will also find later formed goethite, precipitated under higher eH conditions.
+$~~~~~~~~~~~~~~~~~~~~~$└── An example can be found in [T-12](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T12/readme.md), where an oölitic Mn-ore from India is shown. Mn is mainly present as pyrolusite, but also as psilomelane. You will also find later formed goethite, precipitated under higher eH conditions.
 
-Also, you find in T-12 an example of a piece of material of a manganese nodule. Manganese nodules are well known from the Pacific Ocean, where they have been often found during dredging. As there is few land surface that can serve as a source for manganese, the metal must be almost entirely originated from volcanic activity. The manganese is generally present in the form of Mn-oxides or Mn-hydroxides. The size of the nodules is 1- 30 cm, with an average of 3cm. In size, they are generally comparable to potatoes.
+Also, you find in [T-12](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T12/readme.md) an example of a piece of material of a manganese nodule. Manganese nodules are well known from the Pacific Ocean, where they have been often found during dredging. As there is few land surface that can serve as a source for manganese, the metal must be almost entirely originated from volcanic activity. The manganese is generally present in the form of Mn-oxides or Mn-hydroxides. The size of the nodules is 1- 30 cm, with an average of 3cm. In size, they are generally comparable to potatoes.
 
 $~~~~~~~~$├── **Evaporites**
 
