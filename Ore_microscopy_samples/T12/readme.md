@@ -97,12 +97,15 @@ Compare with: botryoidal (= like bunch of grapes), reniform (=kidney shaped).
 
 Source: https://www.mindat.org/glossary/colloform#:~:text=Said%20of%20the%20rounded%2C%20finely,Compare%20with%3A%20botryoidal%2C%20reniform
 
-Ore microscopy images: the typical colloform texture is clearly visible. The nodule has grown by precipitation of mineral matter in thin layers on a core of e.g. a sand grain, or a shark tooth
 
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T12/T-12-4x-Mn-nodule-1-versie-2.jpg" style="width: 45%; height: auto; margin-right: 2%;">
     <img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T12/T-12-4x-Mn-nodule-2-versie-2.jpg" style="width: 45%; height: auto;">
 </div>
+
+Ore microscopy images: the typical colloform texture is clearly visible. The nodule has grown by precipitation of mineral matter in thin layers on a core of e.g. a sand grain, or a shark tooth.
+
+<img src="https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T12/T12-4x-cryptomelane_annotated.jpg" style="width:50%;">
 
 
 
