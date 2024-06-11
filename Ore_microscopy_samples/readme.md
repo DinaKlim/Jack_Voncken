@@ -9,7 +9,7 @@ $~~~~~~~~$├── **Ores related to mantle degassing**
 
 $~~~~~~~~$├── **Segregation deposits**
 
-$~~~~~~~~~~~~~~~~$└──  T-11. This is a chromite ore from the Philippines. In this sample the olivine is completely altered to serpentine.
+$~~~~~~~~~~~~~~~~$└──  [T-11](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/T11/readme.md). This is a chromite ore from the Philippines. In this sample the olivine is completely altered to serpentine.
 
 
 
